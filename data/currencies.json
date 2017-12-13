@@ -1,0 +1,920 @@
+[
+    {
+      "name": "AED - United Arab Emirates dirham",
+      "code": "AED",
+      "symbol": "د.إ",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/are.svg"
+    },
+    {
+      "name": "AFN - Afghan afghani",
+      "code": "AFN",
+      "symbol": "؋",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/afg.svg"
+    },
+    {
+      "name": "ALL - Albanian lek",
+      "code": "ALL",
+      "symbol": "L",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/alb.svg"
+    },
+    {
+      "name": "AMD - Armenian dram",
+      "code": "AMD",
+      "symbol": "",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/arm.svg"
+    },
+    {
+      "name": "ANG - Netherlands Antillean guilder",
+      "code": "ANG",
+      "symbol": "ƒ",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/cuw.svg"
+    },
+    {
+      "name": "AOA - Angolan kwanza",
+      "code": "AOA",
+      "symbol": "Kz",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/ago.svg"
+    },
+    {
+      "name": "ARS - Argentine peso",
+      "code": "ARS",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/arg.svg"
+    },
+    {
+      "name": "AUD - Australian dollar",
+      "code": "AUD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/aus.svg"
+    },
+    {
+      "name": "AWG - Aruban florin",
+      "code": "AWG",
+      "symbol": "ƒ",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/abw.svg"
+    },
+    {
+      "name": "AZN - Azerbaijani manat",
+      "code": "AZN",
+      "symbol": "",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/aze.svg"
+    },
+    {
+      "name": "BAM - Bosnia and Herzegovina convertible mark",
+      "code": "BAM",
+      "symbol": "",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/bih.svg"
+    },
+    {
+      "name": "BBD - Barbadian dollar",
+      "code": "BBD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/brb.svg"
+    },
+    {
+      "name": "BDT - Bangladeshi taka",
+      "code": "BDT",
+      "symbol": "৳",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/bgd.svg"
+    },
+    {
+      "name": "BGN - Bulgarian lev",
+      "code": "BGN",
+      "symbol": "лв",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/bgr.svg"
+    },
+    {
+      "name": "BHD - Bahraini dinar",
+      "code": "BHD",
+      "symbol": ".د.ب",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/bhr.svg"
+    },
+    {
+      "name": "BIF - Burundian franc",
+      "code": "BIF",
+      "symbol": "Fr",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/bdi.svg"
+    },
+    {
+      "name": "BMD - Bermudian dollar",
+      "code": "BMD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/bmu.svg"
+    },
+    {
+      "name": "BND - Brunei dollar",
+      "code": "BND",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/brn.svg"
+    },
+    {
+      "name": "BOB - Bolivian boliviano",
+      "code": "BOB",
+      "symbol": "Bs.",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/bol.svg"
+    },
+    {
+      "name": "BRL - Brazilian real",
+      "code": "BRL",
+      "symbol": "R$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/bra.svg"
+    },
+    {
+      "name": "BSD - Bahamian dollar",
+      "code": "BSD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/bhs.svg"
+    },
+    {
+      "name": "BTN - Bhutanese ngultrum",
+      "code": "BTN",
+      "symbol": "Nu.",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/btn.svg"
+    },
+    {
+      "name": "BWP - Botswana pula",
+      "code": "BWP",
+      "symbol": "P",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/bwa.svg"
+    },
+    {
+      "name": "BYN - New Belarusian ruble",
+      "code": "BYN",
+      "symbol": "Br",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/blr.svg"
+    },
+    {
+      "name": "BZD - Belize dollar",
+      "code": "BZD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/blz.svg"
+    },
+    {
+      "name": "CAD - Canadian dollar",
+      "code": "CAD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/can.svg"
+    },
+    {
+      "name": "CDF - Congolese franc",
+      "code": "CDF",
+      "symbol": "Fr",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/cod.svg"
+    },
+    {
+      "name": "CHF - Swiss franc",
+      "code": "CHF",
+      "symbol": "Fr",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/lie.svg"
+    },
+    {
+      "name": "CLP - Chilean peso",
+      "code": "CLP",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/chl.svg"
+    },
+    {
+      "name": "CNY - Chinese yuan",
+      "code": "CNY",
+      "symbol": "¥",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/chn.svg"
+    },
+    {
+      "name": "COP - Colombian peso",
+      "code": "COP",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/col.svg"
+    },
+    {
+      "name": "CRC - Costa Rican colón",
+      "code": "CRC",
+      "symbol": "₡",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/cri.svg"
+    },
+    {
+      "name": "CUC - Cuban convertible peso",
+      "code": "CUC",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/cub.svg"
+    },
+    {
+      "name": "CVE - Cape Verdean escudo",
+      "code": "CVE",
+      "symbol": "Esc",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/cpv.svg"
+    },
+    {
+      "name": "CZK - Czech koruna",
+      "code": "CZK",
+      "symbol": "Kč",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/cze.svg"
+    },
+    {
+      "name": "DJF - Djiboutian franc",
+      "code": "DJF",
+      "symbol": "Fr",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/dji.svg"
+    },
+    {
+      "name": "DKK - Danish krone",
+      "code": "DKK",
+      "symbol": "kr",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/dnk.svg"
+    },
+    {
+      "name": "DOP - Dominican peso",
+      "code": "DOP",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/dom.svg"
+    },
+    {
+      "name": "DZD - Algerian dinar",
+      "code": "DZD",
+      "symbol": "د.ج",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/dza.svg"
+    },
+    {
+      "name": "EGP - Egyptian pound",
+      "code": "EGP",
+      "symbol": "£",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/egy.svg"
+    },
+    {
+      "name": "ERN - Eritrean nakfa",
+      "code": "ERN",
+      "symbol": "Nfk",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/eri.svg"
+    },
+    {
+      "name": "ETB - Ethiopian birr",
+      "code": "ETB",
+      "symbol": "Br",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/eth.svg"
+    },
+    {
+      "name": "EUR - Euro",
+      "code": "EUR",
+      "symbol": "€",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/eur.svg"
+    },
+    {
+      "name": "FJD - Fijian dollar",
+      "code": "FJD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/fji.svg"
+    },
+    {
+      "name": "FKP - Falkland Islands pound",
+      "code": "FKP",
+      "symbol": "£",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/flk.svg"
+    },
+    {
+      "name": "GBP - British pound",
+      "code": "GBP",
+      "symbol": "£",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/ggy.svg"
+    },
+    {
+      "name": "GEL - Georgian Lari",
+      "code": "GEL",
+      "symbol": "ლ",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/geo.svg"
+    },
+    {
+      "name": "GHS - Ghanaian cedi",
+      "code": "GHS",
+      "symbol": "₵",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/gha.svg"
+    },
+    {
+      "name": "GIP - Gibraltar pound",
+      "code": "GIP",
+      "symbol": "£",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/gib.svg"
+    },
+    {
+      "name": "GMD - Gambian dalasi",
+      "code": "GMD",
+      "symbol": "D",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/gmb.svg"
+    },
+    {
+      "name": "GNF - Guinean franc",
+      "code": "GNF",
+      "symbol": "Fr",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/gin.svg"
+    },
+    {
+      "name": "GTQ - Guatemalan quetzal",
+      "code": "GTQ",
+      "symbol": "Q",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/gtm.svg"
+    },
+    {
+      "name": "GYD - Guyanese dollar",
+      "code": "GYD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/guy.svg"
+    },
+    {
+      "name": "HKD - Hong Kong dollar",
+      "code": "HKD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/hkg.svg"
+    },
+    {
+      "name": "HNL - Honduran lempira",
+      "code": "HNL",
+      "symbol": "L",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/hnd.svg"
+    },
+    {
+      "name": "HRK - Croatian kuna",
+      "code": "HRK",
+      "symbol": "kn",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/hrv.svg"
+    },
+    {
+      "name": "HTG - Haitian gourde",
+      "code": "HTG",
+      "symbol": "G",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/hti.svg"
+    },
+    {
+      "name": "HUF - Hungarian forint",
+      "code": "HUF",
+      "symbol": "Ft",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/hun.svg"
+    },
+    {
+      "name": "IDR - Indonesian rupiah",
+      "code": "IDR",
+      "symbol": "Rp",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/idn.svg"
+    },
+    {
+      "name": "ILS - Israeli new shekel",
+      "code": "ILS",
+      "symbol": "₪",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/isr.svg"
+    },
+    {
+      "name": "INR - Indian rupee",
+      "code": "INR",
+      "symbol": "₹",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/ind.svg"
+    },
+    {
+      "name": "IQD - Iraqi dinar",
+      "code": "IQD",
+      "symbol": "ع.د",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/irq.svg"
+    },
+    {
+      "name": "IRR - Iranian rial",
+      "code": "IRR",
+      "symbol": "﷼",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/irn.svg"
+    },
+    {
+      "name": "ISK - Icelandic króna",
+      "code": "ISK",
+      "symbol": "kr",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/isl.svg"
+    },
+    {
+      "name": "JMD - Jamaican dollar",
+      "code": "JMD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/jam.svg"
+    },
+    {
+      "name": "JOD - Jordanian dinar",
+      "code": "JOD",
+      "symbol": "د.ا",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/jor.svg"
+    },
+    {
+      "name": "JPY - Japanese yen",
+      "code": "JPY",
+      "symbol": "¥",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/jpn.svg"
+    },
+    {
+      "name": "KES - Kenyan shilling",
+      "code": "KES",
+      "symbol": "Sh",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/ken.svg"
+    },
+    {
+      "name": "KGS - Kyrgyzstani som",
+      "code": "KGS",
+      "symbol": "с",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/kgz.svg"
+    },
+    {
+      "name": "KHR - Cambodian riel",
+      "code": "KHR",
+      "symbol": "៛",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/khm.svg"
+    },
+    {
+      "name": "KMF - Comorian franc",
+      "code": "KMF",
+      "symbol": "Fr",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/com.svg"
+    },
+    {
+      "name": "KPW - North Korean won",
+      "code": "KPW",
+      "symbol": "₩",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/prk.svg"
+    },
+    {
+      "name": "KRW - South Korean won",
+      "code": "KRW",
+      "symbol": "₩",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/kor.svg"
+    },
+    {
+      "name": "KWD - Kuwaiti dinar",
+      "code": "KWD",
+      "symbol": "د.ك",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/kwt.svg"
+    },
+    {
+      "name": "KYD - Cayman Islands dollar",
+      "code": "KYD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/cym.svg"
+    },
+    {
+      "name": "KZT - Kazakhstani tenge",
+      "code": "KZT",
+      "symbol": "",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/kaz.svg"
+    },
+    {
+      "name": "LAK - Lao kip",
+      "code": "LAK",
+      "symbol": "₭",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/lao.svg"
+    },
+    {
+      "name": "LBP - Lebanese pound",
+      "code": "LBP",
+      "symbol": "ل.ل",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/lbn.svg"
+    },
+    {
+      "name": "LKR - Sri Lankan rupee",
+      "code": "LKR",
+      "symbol": "Rs",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/lka.svg"
+    },
+    {
+      "name": "LRD - Liberian dollar",
+      "code": "LRD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/lbr.svg"
+    },
+    {
+      "name": "LSL - Lesotho loti",
+      "code": "LSL",
+      "symbol": "L",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/lso.svg"
+    },
+    {
+      "name": "LYD - Libyan dinar",
+      "code": "LYD",
+      "symbol": "ل.د",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/lby.svg"
+    },
+    {
+      "name": "MAD - Moroccan dirham",
+      "code": "MAD",
+      "symbol": "د.م.",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/mar.svg"
+    },
+    {
+      "name": "MDL - Moldovan leu",
+      "code": "MDL",
+      "symbol": "L",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/mda.svg"
+    },
+    {
+      "name": "MGA - Malagasy ariary",
+      "code": "MGA",
+      "symbol": "Ar",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/mdg.svg"
+    },
+    {
+      "name": "MKD - Macedonian denar",
+      "code": "MKD",
+      "symbol": "ден",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/mkd.svg"
+    },
+    {
+      "name": "MMK - Burmese kyat",
+      "code": "MMK",
+      "symbol": "Ks",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/mmr.svg"
+    },
+    {
+      "name": "MNT - Mongolian tögrög",
+      "code": "MNT",
+      "symbol": "₮",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/mng.svg"
+    },
+    {
+      "name": "MOP - Macanese pataca",
+      "code": "MOP",
+      "symbol": "P",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/mac.svg"
+    },
+    {
+      "name": "MRO - Mauritanian ouguiya",
+      "code": "MRO",
+      "symbol": "UM",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/mrt.svg"
+    },
+    {
+      "name": "MUR - Mauritian rupee",
+      "code": "MUR",
+      "symbol": "₨",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/mus.svg"
+    },
+    {
+      "name": "MVR - Maldivian rufiyaa",
+      "code": "MVR",
+      "symbol": ".ރ",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/mdv.svg"
+    },
+    {
+      "name": "MWK - Malawian kwacha",
+      "code": "MWK",
+      "symbol": "MK",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/mwi.svg"
+    },
+    {
+      "name": "MXN - Mexican peso",
+      "code": "MXN",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/mex.svg"
+    },
+    {
+      "name": "MYR - Malaysian ringgit",
+      "code": "MYR",
+      "symbol": "RM",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/mys.svg"
+    },
+    {
+      "name": "MZN - Mozambican metical",
+      "code": "MZN",
+      "symbol": "MT",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/moz.svg"
+    },
+    {
+      "name": "NAD - Namibian dollar",
+      "code": "NAD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/nam.svg"
+    },
+    {
+      "name": "NGN - Nigerian naira",
+      "code": "NGN",
+      "symbol": "₦",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/nga.svg"
+    },
+    {
+      "name": "NIO - Nicaraguan córdoba",
+      "code": "NIO",
+      "symbol": "C$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/nic.svg"
+    },
+    {
+      "name": "NOK - Norwegian krone",
+      "code": "NOK",
+      "symbol": "kr",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/bvt.svg"
+    },
+    {
+      "name": "NPR - Nepalese rupee",
+      "code": "NPR",
+      "symbol": "₨",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/npl.svg"
+    },
+    {
+      "name": "NZD - New Zealand dollar",
+      "code": "NZD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/nzl.svg"
+    },
+    {
+      "name": "OMR - Omani rial",
+      "code": "OMR",
+      "symbol": "ر.ع.",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/omn.svg"
+    },
+    {
+      "name": "PAB - Panamanian balboa",
+      "code": "PAB",
+      "symbol": "B/.",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/pan.svg"
+    },
+    {
+      "name": "PEN - Peruvian sol",
+      "code": "PEN",
+      "symbol": "S/.",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/per.svg"
+    },
+    {
+      "name": "PGK - Papua New Guinean kina",
+      "code": "PGK",
+      "symbol": "K",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/png.svg"
+    },
+    {
+      "name": "PHP - Philippine peso",
+      "code": "PHP",
+      "symbol": "₱",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/phl.svg"
+    },
+    {
+      "name": "PKR - Pakistani rupee",
+      "code": "PKR",
+      "symbol": "₨",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/pak.svg"
+    },
+    {
+      "name": "PLN - Polish złoty",
+      "code": "PLN",
+      "symbol": "zł",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/pol.svg"
+    },
+    {
+      "name": "PYG - Paraguayan guaraní",
+      "code": "PYG",
+      "symbol": "₲",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/pry.svg"
+    },
+    {
+      "name": "QAR - Qatari riyal",
+      "code": "QAR",
+      "symbol": "ر.ق",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/qat.svg"
+    },
+    {
+      "name": "RON - Romanian leu",
+      "code": "RON",
+      "symbol": "lei",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/rou.svg"
+    },
+    {
+      "name": "RSD - Serbian dinar",
+      "code": "RSD",
+      "symbol": "дин.",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/srb.svg"
+    },
+    {
+      "name": "RUB - Russian ruble",
+      "code": "RUB",
+      "symbol": "₽",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/rus.svg"
+    },
+    {
+      "name": "RWF - Rwandan franc",
+      "code": "RWF",
+      "symbol": "Fr",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/rwa.svg"
+    },
+    {
+      "name": "SAR - Saudi riyal",
+      "code": "SAR",
+      "symbol": "ر.س",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/sau.svg"
+    },
+    {
+      "name": "SBD - Solomon Islands dollar",
+      "code": "SBD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/slb.svg"
+    },
+    {
+      "name": "SCR - Seychellois rupee",
+      "code": "SCR",
+      "symbol": "₨",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/syc.svg"
+    },
+    {
+      "name": "SDG - Sudanese pound",
+      "code": "SDG",
+      "symbol": "ج.س.",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/sdn.svg"
+    },
+    {
+      "name": "SEK - Swedish krona",
+      "code": "SEK",
+      "symbol": "kr",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/swe.svg"
+    },
+    {
+      "name": "SHP - Saint Helena pound",
+      "code": "SHP",
+      "symbol": "£",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/shn.svg"
+    },
+    {
+      "name": "SLL - Sierra Leonean leone",
+      "code": "SLL",
+      "symbol": "Le",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/sle.svg"
+    },
+    {
+      "name": "SOS - Somali shilling",
+      "code": "SOS",
+      "symbol": "Sh",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/som.svg"
+    },
+    {
+      "name": "SRD - Surinamese dollar",
+      "code": "SRD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/sur.svg"
+    },
+    {
+      "name": "SSP - South Sudanese pound",
+      "code": "SSP",
+      "symbol": "£",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/ssd.svg"
+    },
+    {
+      "name": "STD - São Tomé and Príncipe dobra",
+      "code": "STD",
+      "symbol": "Db",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/stp.svg"
+    },
+    {
+      "name": "SYP - Syrian pound",
+      "code": "SYP",
+      "symbol": "£",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/syr.svg"
+    },
+    {
+      "name": "SZL - Swazi lilangeni",
+      "code": "SZL",
+      "symbol": "L",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/swz.svg"
+    },
+    {
+      "name": "THB - Thai baht",
+      "code": "THB",
+      "symbol": "฿",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/tha.svg"
+    },
+    {
+      "name": "TJS - Tajikistani somoni",
+      "code": "TJS",
+      "symbol": "ЅМ",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/tjk.svg"
+    },
+    {
+      "name": "TMT - Turkmenistan manat",
+      "code": "TMT",
+      "symbol": "m",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/tkm.svg"
+    },
+    {
+      "name": "TND - Tunisian dinar",
+      "code": "TND",
+      "symbol": "د.ت",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/tun.svg"
+    },
+    {
+      "name": "TOP - Tongan paʻanga",
+      "code": "TOP",
+      "symbol": "T$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/ton.svg"
+    },
+    {
+      "name": "TRY - Turkish lira",
+      "code": "TRY",
+      "symbol": "",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/tur.svg"
+    },
+    {
+      "name": "TTD - Trinidad and Tobago dollar",
+      "code": "TTD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/tto.svg"
+    },
+    {
+      "name": "TWD - New Taiwan dollar",
+      "code": "TWD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/twn.svg"
+    },
+    {
+      "name": "TZS - Tanzanian shilling",
+      "code": "TZS",
+      "symbol": "Sh",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/tza.svg"
+    },
+    {
+      "name": "UAH - Ukrainian hryvnia",
+      "code": "UAH",
+      "symbol": "₴",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/ukr.svg"
+    },
+    {
+      "name": "UGX - Ugandan shilling",
+      "code": "UGX",
+      "symbol": "Sh",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/uga.svg"
+    },
+    {
+      "name": "USD - United State Dollar",
+      "code": "USD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/usa.svg"
+    },
+    {
+      "name": "UYU - Uruguayan peso",
+      "code": "UYU",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/ury.svg"
+    },
+    {
+      "name": "UZS - Uzbekistani so'm",
+      "code": "UZS",
+      "symbol": "",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/uzb.svg"
+    },
+    {
+      "name": "VEF - Venezuelan bolívar",
+      "code": "VEF",
+      "symbol": "Bs F",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/ven.svg"
+    },
+    {
+      "name": "VND - Vietnamese đồng",
+      "code": "VND",
+      "symbol": "₫",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/vnm.svg"
+    },
+    {
+      "name": "VUV - Vanuatu vatu",
+      "code": "VUV",
+      "symbol": "Vt",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/vut.svg"
+    },
+    {
+      "name": "WST - Samoan tālā",
+      "code": "WST",
+      "symbol": "T",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/wsm.svg"
+    },
+    {
+      "name": "XAF - Central African CFA franc",
+      "code": "XAF",
+      "symbol": "Fr",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/cmr.svg"
+    },
+    {
+      "name": "XCD - East Caribbean dollar",
+      "code": "XCD",
+      "symbol": "$",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/aia.svg"
+    },
+    {
+      "name": "XOF - West African CFA franc",
+      "code": "XOF",
+      "symbol": "Fr",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/ben.svg"
+    },
+    {
+      "name": "XPF - CFP franc",
+      "code": "XPF",
+      "symbol": "Fr",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/pyf.svg"
+    },
+    {
+      "name": "YER - Yemeni rial",
+      "code": "YER",
+      "symbol": "﷼",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/yem.svg"
+    },
+    {
+      "name": "ZAR - South African rand",
+      "code": "ZAR",
+      "symbol": "R",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/zaf.svg"
+    },
+    {
+      "name": "ZMW - Zambian kwacha",
+      "code": "ZMW",
+      "symbol": "ZK",
+      "flag": "https://res.cloudinary.com/unfao/image/upload/v1513159224/flags/zmb.svg"
+    }
+   ]

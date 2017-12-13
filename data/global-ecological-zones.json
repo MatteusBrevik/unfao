@@ -1,0 +1,82 @@
+[
+    {
+      "label": "Boreal coniferous forest",
+      "value": "borealConiferousForest"
+    },
+    {
+      "label": "Boreal mountain system",
+      "value": "borealMountainSystem"
+    },
+    {
+      "label": "Boreal tundra woodland",
+      "value": "borealTundraWoodland"
+    },
+    {
+      "label": "Polar",
+      "value": "polar"
+    },
+    {
+      "label": "Subtropical desert",
+      "value": "subtropicalDesert"
+    },
+    {
+      "label": "Subtropical dry forest",
+      "value": "subtropicalDryForest"
+    },
+    {
+      "label": "Subtropical humid forest",
+      "value": "subtropicalHumidForest"
+    },
+    {
+      "label": "Subtropical mountain system",
+      "value": "subtropicalMountainSystem"
+    },
+    {
+      "label": "Subtropical steppe",
+      "value": "subtropicalSteppe"
+    },
+    {
+      "label": "Temperate continental forest",
+      "value": "temperateContinentalForest"
+    },
+    {
+      "label": "Temperate desert",
+      "value": "temperateDesert"
+    },
+    {
+      "label": "Temperate mountain",
+      "value": "temperateMountain"
+    },
+    {
+      "label": "Temperate oceanic forest",
+      "value": "temperateOceanicForest"
+    },
+    {
+      "label": "Temperate steppe",
+      "value": "temperateSteppe"
+    },
+    {
+      "label": "Tropical desert",
+      "value": "tropicalDesert"
+    },
+    {
+      "label": "Tropical dry forest",
+      "value": "tropicalDryForest"
+    },
+    {
+      "label": "Tropical moist forest",
+      "value": "tropicalMoistForest"
+    },
+    {
+      "label": "Tropical mountain system",
+      "value": "tropicalMountainSystem"
+    },
+    {
+      "label": "Tropical rainforest",
+      "value": "tropicalRainforest"
+    },
+    {
+      "label": "Tropical shrubland",
+      "value": "tropicalShrubland"
+    }
+   ]
